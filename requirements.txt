@@ -1,8 +1,0 @@
-Django
-mysql-connector
-virtualenv
-dj-database-url
-gunicorn
-whitenoise
-Pillow
-requests
